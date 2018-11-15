@@ -1,7 +1,10 @@
 {
+    "MD013": false,
+    "MD024": false,
     "MD044": {
         "names": [
             "MAVLink",
+            "QGroundControl",
             "ROS",
             "Python",
             "C++",
@@ -11,7 +14,9 @@
             "Raspberry Pi",
             "Pixhawk",
             "Pixracer",
-            "ArUco"
+            "GitUp",
+            "ArUco",
+            "PWM"
         ],
         "code_blocks": false
     }
