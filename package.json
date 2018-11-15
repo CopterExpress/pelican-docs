@@ -1,0 +1,15 @@
+{
+  "name": "pelican-docs",
+  "description": "Documentation for Pelican drones",
+  "scripts": {
+    "test": "node_modules/.bin/markdownlint . -i node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CopterExpress/pelican-docs.git"
+  },
+  "author": "Copter Express Technologies",
+  "devDependencies": {
+    "markdownlint-cli": "^0.13.0"
+  }
+}
