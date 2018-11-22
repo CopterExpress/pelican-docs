@@ -73,11 +73,42 @@ Flir Duo представляет собой первое в мире компа
 
 В комплекте с устройством идут два стандартных серво-кабеля. Ими необходимо соединить 1-й и 2-й выход Seagull MAP2 соответственно с двумя AUX-выходами pixhawk'а, указанными в параметре TRIG_PINS (5 и 6 по умолчанию).
 
+В mini-jack разъем устройства подсоединяется кабель, идущий непосредственно в камеру.
+
 ### Настройка Pixhawk
 
 Подсоединитесь QGroundControl'ом к своему контролеру. На панели настроек в разделе  "Camera" в списке "Trigger interface" выберите "Seagull MAP2" (TRIG_INTERFACE=2).
 
 ## Использование камер
+
+### Параметры px4
+
+В px4 есть ряд параметров, управляющих соединением с камерой и ее поведением.
+
+#### Режимы фотографирования
+
+Режимы работы контролируются параметром [TRIG_MODE](https://docs.px4.io/en/advanced_config/parameter_reference.html#TRIG_MODE):
+
+|Режим	|Значение	|Описание	|
+|---|---|---|
+|0	|Disable	|Фотографирование отключено	|
+|1	|Time based, on command	|Срабатывание по mavlink-команде [MAV_CMD_DO_TRIGGER_CONTROL](https://docs.px4.io/en/peripherals/camera.html#command_interface).	|
+|2	|Time based, always on	|Постоянное срабатывание через равные промежутки времени, указанные в TRIG_INTERVAL	|
+|3	|Distance based, always on	|Спуск будет срабатывать всякий раз, когда коптер преодолевает по горизонтали дистанцию, указанную в параметре TRIG_DISTANCE. Минимальное время между двумя срабатываниями, однако, ограничено TRIG_INTERVAL	|
+|4	|Distance based, on command (Survey mode)	|Автоматически срабатывает во время полета по Survey-миссии	|
+
+После смены этого параметра необходима перезагрузка контроллера.
+
+#### Интерфейс взаимодействия
+
+Драйвер работы с камерами поддерживает несколько интерфейсов, управляемых параметром [TRIG_INTERFACE](https://docs.px4.io/en/advanced_config/parameter_reference.html#TRIG_INTERFACE):
+
+|Интерфейс	|Значение	|Описание	|
+|---|---|---|
+|1	|GPIO	|	|
+|2	|Seagull MAP2 (over PWM)	|	|
+|3	|MAVLink (forward via MAV_CMD_IMAGE_START_CAPTURE)	|	|
+|4	|Generic PWM (IR trigger, servo)	|	|
 
 ### Ручное управление
 
