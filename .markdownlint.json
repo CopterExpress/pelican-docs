@@ -17,7 +17,9 @@
             "Pixracer",
             "GitUp",
             "ArUco",
-            "PWM"
+            "PWM",
+            "mavlink-switch",
+            "VPN"
         ],
         "code_blocks": false
     }
