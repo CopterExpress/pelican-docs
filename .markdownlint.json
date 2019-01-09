@@ -19,7 +19,9 @@
             "ArUco",
             "PWM",
             "mavlink-switch",
-            "VPN"
+            "VPN",
+            "RTP",
+            "RTCP"
         ],
         "code_blocks": false
     }
