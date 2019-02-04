@@ -204,6 +204,8 @@ camera_trigger test
 
 ### Настройка PX4
 
+Аналогично Flir Duo: выставляем TRIG_INTERFACE=3, общаемся по протоколу MAVLink.
+
 ## Использование камер
 
 ### Параметры PX4
