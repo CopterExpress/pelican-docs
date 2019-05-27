@@ -6,10 +6,7 @@ MAVLink-совместимая зарядная станция COEX - прогр
 
 На настоящий момент работа с зарядной станцией и БПЛА одновременно возможна через [публичную ветку ПО управления QGroundControl от COEX](https://github.com/CopterExpress/qgroundcontrol/tree/charging_station).
 
-Бинарные версии для ряда операционных систем доступны по [ссылке](https://drive.google.com/drive/folders/1FdVGB5cbTbiTdbhcZdTgrS3j01AjnvIb?usp=sharing):
-
-1. [Версия для Windows.](https://drive.google.com/file/d/1RfjDf8tbehKWiqcuijmJa3OQJqTqJPb0/view?usp=sharing)
-2. [Версия для Android.](https://drive.google.com/file/d/1yiGTi2VXU0rVnjcSo06gzK-BeCuGvl81/view?usp=sharing)
+Сборки доступны по [ссылке](https://github.com/CopterExpress/qgroundcontrol/releases).
 
 Зарядная станция отображается в QGroundControl, как особое MAVLink-устройство, при переключении на который станет доступен новый элемент управления, позволяющий узнать текущее состояние зарядной станции.
 
