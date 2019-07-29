@@ -8,3 +8,4 @@
   * [Параметр LTEST_EN](mavlink_uav_param_ltest_en.md)
 * [Топология MAVLink-сети](mavlink_topology.md)
 * [Работа с камерами](cameras.md)
+* [QGroundControl с поддержкой зарядной станции](qgc_custom.md)
