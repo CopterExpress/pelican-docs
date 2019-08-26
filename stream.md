@@ -12,18 +12,32 @@
 raspivid -n -b 800000 -fps 15 -t 0 -o - | gst-launch-1.0 -v fdsrc ! h264parse ! rtph264pay config-interval=10 pt=96 ! udpsink host=<client_host> port=9000
 ```
 
+**Внимание!** Обнаружено, что клиенты на базе liblive555, включая VLC, часто некорректно работают с RTP-потоками gstreamer (зависают на первом кадре). Для тестирование потоков рекомендуется использовать gstreamer, либо QGroundControl.
+
 ## RTSP
 
-Существенными недостатки RTP протокола:
+Существенные недостатки RTP протокола:
 
 1. Нет возможности остановить передачу данных при отсутсвии клиентов.
 2. Необходимо указывать IP-адрес клиента, либо широковещательный адрес.
 
 Протокол RTSP решает данные недостатки, работая в качестве сеансового протокола для протокла RTP. Неблюдаются увеличения задержки при передачи видео с использованием RTSP, зависящие от реализации сервера.
 
+### gst-gateworks-apps (рекомендуется)
+
+Приложение **gst-variable-rtsp-server** из проекта **gst-gateworks-apps** (собирается отдельно) предоставляет функции RTSP-сервера.
+
+Перед сборкой необходимо установить **gstreamer-rtsp-server-1.0**.
+
+```bash
+raspivid -n -b 800000 -fps 15 -t 0 -o - | ./bin/gst-variable-rtsp-server -u "fdsrc ! h264parse ! rtph264pay name=pay0 pt=96 config-interval=5"
+```
+
+**Внимание!** Проблема с liblive555, связанная с RTP-потоками, актуальна и для RTSP-серверов.
+
 ### gst-rtsp-server
 
-Рекомендуется использовать приложение **test-launch** из директории examples проекта **gst-rtsp-server** (собирается отдельно).
+Приложение **test-launch** из директории examples проекта **gst-rtsp-server** (собирается отдельно) предоставляет функции RTSP-сервера.
 
 ```bash
 ./examples/test-launch "( v4l2src device=/dev/video0 ! video/x-h264,framerate=59/1,width=640,height=480 ! h264parse ! rtph264pay name=pay0 config-interval=10 pt=96 )"
