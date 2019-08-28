@@ -64,6 +64,8 @@
 
 ## Виджет управления камерой для QGroundControl
 
+![QGC_widget](img/qgc_duocam_widget.png)
+
 ### Где взять
 
 QGC c необходимый функционалом для управления "COEX Duocam" можно скачать в нашем [репозитории](https://github.com/CopterExpress/qgroundcontrol/releases). Скачивать следует тот релиз, в названии которого присутствует своло "duocam" с максимальным порядковым номером.
