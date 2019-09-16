@@ -23,6 +23,7 @@
 Также можно зайти по **ssh** на работающую RPi4 и отредактировать конфигурационный-файл внутри системы по тому же пути.
 
 ## Пример конфигурационного файла
+
 ```yaml
 # MAVLink vehicle ID that owns the camera
 vehicle_id: 1
@@ -42,6 +43,7 @@ command_timeout: 3.0
 ```
 
 ## Пример конфигурационного файла для mavlink-fast-switch
+
 ```yaml
 # MAVLink endpoints
 endpoints:
@@ -64,7 +66,8 @@ endpoints:
 id-table: False
 ```
 
-# Пример конфигурационного файла для mavlink-serial-bridge
+## Пример конфигурационного файла для mavlink-serial-bridge
+
 ```yaml
 # Serial device settings
 serial:
