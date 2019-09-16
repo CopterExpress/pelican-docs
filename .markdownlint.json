@@ -27,7 +27,9 @@
             "DuoCam",
             "mavlink-fast-switch",
             "mavlink-serial-bridge",
-            "cmavnode"
+            "cmavnode",
+            "POSIX",
+            "duocam-common"
         ],
         "code_blocks": false
     }
