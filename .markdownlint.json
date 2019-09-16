@@ -23,7 +23,7 @@
             "RTP",
             "RTCP",
             "duocam-mavlink",
-            "duocam-camera"
+            "duocam-camera",
             "DuoCam",
             "mavlink-fast-switch",
             "mavlink-serial-bridge",
