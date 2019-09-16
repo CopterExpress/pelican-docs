@@ -21,7 +21,13 @@
             "mavlink-switch",
             "VPN",
             "RTP",
-            "RTCP"
+            "RTCP",
+            "duocam-mavlink",
+            "duocam-camera"
+            "DuoCam",
+            "mavlink-fast-switch",
+            "mavlink-serial-bridge",
+            "cmavnode"
         ],
         "code_blocks": false
     }
