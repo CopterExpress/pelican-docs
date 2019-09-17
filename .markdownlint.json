@@ -29,7 +29,10 @@
             "mavlink-serial-bridge",
             "cmavnode",
             "POSIX",
-            "duocam-common"
+            "duocam-common",
+            "NavTALink",
+            "PuTTY",
+            "PSFTP"
         ],
         "code_blocks": false
     }
