@@ -1,4 +1,4 @@
-# ROI - Region Of Interes
+# ROI - Region Of Interest
 
 Работа с точками интереса с прошивкой PX4 в приложении QGroundControl
 
