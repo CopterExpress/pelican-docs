@@ -8,7 +8,7 @@
 
 Образ предназначен для работы с **Raspberry Pi 4** и базируется на **Raspbian Buster**.
 
-Для связи "БПЛА-станция наземного управления" успользуется трансивер UDP-пакетов через кадры 802.11 [Wifibroadcast](https://github.com/svpcom/wifibroadcast).
+Для связи "БПЛА-станция наземного управления" успользуется трансивер UDP-пакетов через кадры 802.11 [wifibroadcast](https://github.com/svpcom/wifibroadcast).
 
 Также в образе включен:
 
