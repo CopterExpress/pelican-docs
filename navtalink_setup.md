@@ -114,6 +114,18 @@
 
 1. Ввести команду: `sudo nano /etc/wifibroadcast.cfg`.
 2. Выполнить редактирование конфигурации.
-3. Перезапустить сервис **wifibroadcast** командой: `sudo systemctl restart wifibroadcast@<device>`, где **device** - **drone** для БПЛА, **gs** для наземной станции управления.
+3. Перезапустить сервис `wifibroadcast` командой: `sudo systemctl restart wifibroadcast@<device>`, где **device** - **drone** для БПЛА, **gs** для наземной станции управления.
 
 [Подробнее о настройках wifibroadcast.](wifibroadcast_config.md)
+
+### Настройка видеострансляции
+
+**Внимание!** Данное действие должно выполняться на устройстве, расположенном на БПЛА.
+
+Для редактирования настроек видеотрансляции необходимо:
+
+1. Ввести команду: `sudo nano /lib/systemctl/system/navtalink-video.env`.
+2. Выполнить редактирование конфигурации.
+3. Перезапустить сервис `navtalink-video` командой: `sudo systemctl restart navtalink-video`.
+
+[Подробнее о настройках видеострансляции.](navtalink_video.md)
