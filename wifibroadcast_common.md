@@ -8,7 +8,7 @@
 | version | Строка | Зависит от версии дистрибутива | Версия **wifibroadcast** | Для внутреннего использования |
 | commit | Строка или None | None | Хэш коммита | Для внутреннего использования |
 | radio_mtu | Целое, >0 | 1446 | Максимальное количество байт в кадре **IEEE 802.11** | |
-| mavlink_agg_timeout | Дробное (с), >=0, None | 100 | Максимальное время агрегации MAVLink пакетов в кадры **IEEE 802.11** | 0 или None, чтобы отключить |
+| mavlink_agg_timeout | Дробное (с), >0 | 100 | Максимальное время агрегации MAVLink пакетов в кадры **IEEE 802.11** | |
 | tx_sel_delta | Дробное (дБ), >=0, None | 3 | Гистерезис для выбора антенны | |
 | wifi_channel | [Табличное значение](https://en.wikipedia.org/wiki/List_of_WLAN_channels) | 165 | Канал Wi-Fi | |
 | wifi_region | [ISO 3166-1 alpha-2](https://ru.wikipedia.org/wiki/ISO_3166-1_alpha-2) | 'BO' | Регион Wi-Fi | |
