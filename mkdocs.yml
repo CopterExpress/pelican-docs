@@ -1,0 +1,43 @@
+site_name: COEX Пеликан
+pages:
+  - 'На главную': 'index.md'
+  - 'Дрон':
+    - 'Техническая информация': 'pelican_hard_manual.md'
+    - 'Микропрограмма': 'mavlink_uav_firmware.md'
+    - 'Параметры':
+      - 'Список': 'mavlink_uav_params.md'
+      - 'Параметр PLD_FOAC': 'mavlink_uav_param_foac.md'
+      - 'Параметр LTEST_EN': 'mavlink_uav_param_ltest_en.md'
+    - 'Камеры': 'cameras.md'
+    - 'Дальномеры': 'distance_sensors.md'
+    - 'ROI': 'roi.md'
+    - 'Видеотрансляция': 'stream.md'
+    - 'Точная посадка': 'strict_precland.md'
+  - 'Зарядная станция':
+    - 'Общая информация': 'mavlink_cs.md'
+    - 'QGroundControl':
+      - 'Загрузить': 'mavlink_cs_qgc.md'
+      - 'Дополнительные функции': 'qgc_custom.md'
+    - 'Параметры':
+      - 'Список': 'mavlink_cs_params.md'
+      - 'Параметр CONTROL': 'mavlink_cs_param_control.md'
+    - 'RTK GPS': 'mavlink_cs_rtk.md'
+    - 'Значения телеметрии': 'mavlink_cs_values.md'
+    - 'Миссии с зарядной станцией': 'mavlink_cs_mission.md'
+  - 'Другое':
+    - 'Топологии': 'mavlink_topology.md'
+    - 'DuoCam':
+      - 'Общая информация': 'duocam.md'
+      - 'DuoCam MAVLink': 'duocam_mavlink.md'
+    - 'NavTALink':
+      - 'Общая информация': 'navtalink.md'
+      - 'Настройка':
+        - 'NavTALink': 'navtalink_setup.md'
+        - 'Видео': 'navtalink_video.md'
+        - 'wifibroadcast':
+          - 'Общие сведения': 'wifibroadcast_config.md'
+          - 'Секция path': 'wifibroadcast_path.md'
+          - 'Секция common': 'wifibroadcast_common.md'
+          - 'Секция channel': 'wifibroadcast_channel.md'
+          - 'Параметр peer': 'wifibroadcast_peer.md'
+    - 'Установка PuTTY': 'putty_setup.md' 
