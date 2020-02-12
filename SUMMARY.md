@@ -2,7 +2,7 @@
 
 * [Зарядная станция с поддержкой MAVLink](mavlink_cs.md)
   * [Служебный параметр CONTROL](mavlink_cs_param_control.md)
-* [Микропрограмма PX4 полётного контроллера с поддержкой зарядной станции](mavlink_uav_firmware.md)
+* [Микропрограмма полётного контроллера с поддержкой зарядной станции](mavlink_uav_firmware.md)
 * [ПО для станции наземного управления QGroundControl с поддержкой зарядной станции](mavlink_cs_qgc.md)
 * [Автоматические миссии с зарядной станцией](mavlink_cs_mission.md)
   * [Дополнительные MAVLink-параметры](mavlink_uav_params.md)
