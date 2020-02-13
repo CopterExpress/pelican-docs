@@ -1,5 +1,5 @@
 site_name: COEX Пеликан
-theme: 'readthedocs'
+theme: 'windmill'
 pages:
   - 'На главную': 'index.md'
   - 'Дрон':
