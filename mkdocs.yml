@@ -36,8 +36,8 @@ pages:
         - 'Видео': 'navtalink_video.md'
         - 'wifibroadcast':
           - 'Общие сведения': 'wifibroadcast_config.md'
-          - 'Секция path': 'wifibroadcast_path.md'
-          - 'Секция common': 'wifibroadcast_common.md'
-          - 'Секция channel': 'wifibroadcast_channel.md'
+          - 'Секция [path]': 'wifibroadcast_path.md'
+          - 'Секция [common]': 'wifibroadcast_common.md'
+          - 'Секция [channel]': 'wifibroadcast_channel.md'
           - 'Параметр peer': 'wifibroadcast_peer.md'
     - 'Установка PuTTY': 'putty_setup.md' 
