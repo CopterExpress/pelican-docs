@@ -1,5 +1,6 @@
 site_name: COEX Пеликан
 theme: 'gitbook'
+plugins: []
 pages:
   - 'На главную': 'index.md'
   - 'Дрон':
