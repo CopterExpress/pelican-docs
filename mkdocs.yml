@@ -5,7 +5,7 @@ pages:
   - 'На главную': 'index.md'
   - 'Дрон':
     - 'Техническая информация': 'pelican_hard_manual.md'
-    - 'Микропрограмма': 'mavlink_uav_firmware.md'
+    - 'Прошивка': 'mavlink_uav_firmware.md'
     - 'Параметры':
       - 'Список': 'mavlink_uav_params.md'
       - 'Параметр PLD_FOAC': 'mavlink_uav_param_foac.md'
