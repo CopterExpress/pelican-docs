@@ -1,5 +1,5 @@
 site_name: COEX Пеликан
-theme: 'windmill'
+theme: 'gitbook'
 pages:
   - 'На главную': 'index.md'
   - 'Дрон':
