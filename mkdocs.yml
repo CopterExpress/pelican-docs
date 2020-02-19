@@ -1,6 +1,5 @@
 site_name: COEX Пеликан
 theme: 'material'
-plugins: []
 pages:
   - 'На главную': 'index.md'
   - 'Дрон':
