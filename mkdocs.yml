@@ -1,5 +1,5 @@
 site_name: COEX Пеликан
-theme: 'gitbook'
+theme: 'material'
 plugins: []
 pages:
   - 'На главную': 'index.md'
