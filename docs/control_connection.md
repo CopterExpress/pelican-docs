@@ -84,3 +84,21 @@
     ```bash
     sudo navtalink_set_role gs
     ```
+
+5. Откройте окно QGroundControl и зайдите в окно *General*.
+
+#TODO
+
+6. Во вкладке *Video stream* выберите значение *h264* и установите порт 5600.
+
+## Настройка полетного контроллера
+
+Скачайте последнюю версию прошивки *charging_station_1.9.2*, в репозитории https://github.com/CopterExpress/Firmware.
+
+Последний выпущенный релиз [*v1.9.2-charging-station.4*](https://github.com/CopterExpress/Firmware/tree/v1.9.2-charging-station.4).
+
+1. Установите прошивку на дрон.
+
+#TODO
+
+2. Во вкладке *Parameters* найдите параметр *TELEM1* и установите скорость передачи 56400.
