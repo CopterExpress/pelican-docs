@@ -43,3 +43,4 @@ pages:
           - 'Секция [channel]': 'wifibroadcast_channel.md'
           - 'Параметр peer': 'wifibroadcast_peer.md'
     - 'Установка PuTTY': 'putty_setup.md' 
+    - 'Соединение COEX пульта и образа NavTALink': control_connection.md

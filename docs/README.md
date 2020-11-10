@@ -16,3 +16,4 @@
 * [Аппаратно-программный комплекс DuoCam](duocam.md)
 * [Аппаратно-программный комплекс NavTALink](navtalink.md)
 * [Дополнительная информация по подключению лазерных дальномеров к БПЛА](distance_sensors.md)
+* [control_connection.md](control_connection.md)
