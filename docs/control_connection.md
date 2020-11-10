@@ -95,7 +95,7 @@
 
 Скачайте последнюю версию прошивки *charging_station_1.9.2*, в репозитории https://github.com/CopterExpress/Firmware.
 
-Последний выпущенный релиз [*v1.9.2-charging-station.4*](https://github.com/CopterExpress/Firmware/tree/v1.9.2-charging-station.4).
+Последний выпущенный релиз [*v1.9.2-charging-station.4*](https://github.com/CopterExpress/Firmware/releases/tag/v1.9.2-charging-station.4).
 
 1. Установите прошивку на дрон.
 
