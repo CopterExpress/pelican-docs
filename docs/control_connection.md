@@ -26,7 +26,7 @@
 
 4. В результате выполнения команды, в домашней директории `/home/pi/` появятся 2 файла ключей `gs.key` и `drone.key`, для станции управления и дрона соответственно.
 
-    <img src="../assets/control_connection/wifi_keygen.png" width=300>
+    <img src="img/control_connection/wifi_keygen.png" width=300>
 
 5. Перейдите в домашнюю директорию и перенесите ключ шифрования дрона `drone.key` в директорию `/etc/` командой:
 
@@ -57,9 +57,9 @@
 
 3. Откройте консоль в верхнем левом углу панели задач.
 
-    <img src="../assets/control_connection/console_open.png" width=500>
+    <img src="img/control_connection/console_open.png" width=500>
 
-    <img src="../assets/control_connection/console.png" width=500>
+    <img src="img/control_connection/console.png" width=500>
 
 4. Вызовите команду записи идентификационного номера сетевого адаптера:
 
@@ -77,7 +77,7 @@
 
 2. Во вкладке *Parameters* найдите параметр *SER_TEL1_BAUD* и установите скорость передачи 115200.
 
-    <img src="../assets/control_connection/fc_setup.png" width=500>
+    <img src="img/control_connection/fc_setup.png" width=500>
 
 ## Изменение имени сети
 
@@ -91,7 +91,7 @@
 
 2. Измените имя WiFi смети, заменив поле `ssid` на любое другое имя, к примеру *Navtalink-1234*
 
-    <img src="../assets/control_connection/wifi_name.png" width=500>
+    <img src="img/control_connection/wifi_name.png" width=500>
 
 ## Изменение частоты подключения адаптера
 
@@ -105,7 +105,7 @@
 
 2. Измените в нем параметр `wifi_channel`.
 
-    <img src="../assets/control_connection/wifi_channel.png" width=500>
+    <img src="img/control_connection/wifi_channel.png" width=500>
 
 > **Caution** Данную настроку необходимо проводить на дроне и на пульте.
 
@@ -123,4 +123,4 @@
 
 3. Для настройки температуры отображаемой на изображении, измените параметр `offset` в блоке `temperature_calibration`. Для повышения температуры измените параметр на необходимое количество градусов в большую сторону, а для уменьшения в меньшую.
 
-    <img src="../assets/control_connection/duocam_config.png" width=500>
+    <img src="img/control_connection/duocam_config.png" width=500>
