@@ -2,7 +2,7 @@
 
 ## Запись образа
 
-1. Загрузите последние образы [NavTALink](https://github.com/CopterExpress/navtalink-ci-images/releases) для коптера и [NavTALink control](https://github.com/CopterExpress/navtalink-control-ci-images/releases) для пульта.
+1. Загрузите последние образы [NavTALink](https://drive.google.com/file/d/1gnhqKfKnWkzALMUumSkQaX9yv1H44cT0/view?usp=sharing) для коптера и [NavTALink control](https://drive.google.com/file/d/1OORAkp7-CMaF69wEJXfNFOSFZ_ZRs0Yl/view?usp=sharing) для пульта.
 
 2. Запишите образ NavTALink на MicroSD карту и установите в Raspberry Pi на дроне.
 
@@ -67,18 +67,6 @@
     sudo navtalink_update_adapter
     ```
 
-## Настройка полетного контроллера
-
-Скачайте последнюю версию прошивки *charging_station_1.9.2*, в репозитории https://github.com/CopterExpress/Firmware.
-
-Последний выпущенный релиз [*v1.9.2-charging-station.4*](https://github.com/CopterExpress/Firmware/releases/tag/v1.9.2-charging-station.4).
-
-1. Установите прошивку на дрон.
-
-2. Во вкладке *Parameters* найдите параметр *SER_TEL1_BAUD* и установите скорость передачи 115200.
-
-    <img src="img/control_connection/fc_setup.png" width=500>
-
 ## Изменение имени сети
 
 > **Hint** Рекомендуется изменять имя сети раздаваемого WiFi для возможности включения двух дронов в 1 месте.
@@ -124,3 +112,15 @@
 3. Для настройки температуры отображаемой на изображении, измените параметр `offset` в блоке `temperature_calibration`. Для повышения температуры измените параметр на необходимое количество градусов в большую сторону, а для уменьшения в меньшую.
 
     <img src="img/control_connection/duocam_config.png" width=500>
+
+## Настройка полетного контроллера
+
+Скачайте последнюю версию прошивки *charging_station_1.9.2*, в репозитории https://github.com/CopterExpress/Firmware.
+
+Последний выпущенный релиз [*v1.9.2-charging-station.4*](https://github.com/CopterExpress/Firmware/releases/tag/v1.9.2-charging-station.4).
+
+1. Установите прошивку на дрон.
+
+2. Во вкладке *Parameters* найдите параметр *SER_TEL1_BAUD* и установите скорость передачи 115200.
+
+    <img src="img/control_connection/fc_setup.png" width=500>
