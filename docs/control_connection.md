@@ -79,7 +79,7 @@
     sudo nano /etc/wpa_suplicant/wpa_suplicant-wlan0
     ```
 
-2. Измените имя WiFi смети, заменив поле `ssid` на любое другое имя, к примеру *Navtalink-1234*
+2. Измените имя WiFi смети, заменив поле `ssid` на любое другое имя, к примеру *NavTALink-1234*
 
     <img src="img/control_connection/wifi_name.png" width=500>
 
