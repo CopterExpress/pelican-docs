@@ -28,7 +28,7 @@
 
 4. В результате выполнения команды, в домашней директории `/home/pi/` появятся 2 файла ключей `gs.key` и `drone.key`, для станции управления и дрона соответственно.
 
-    <img src="img/control_connection/wifi_keygen.png" width=300>
+    ![wifi_keygen](img/control_connection/wifi_keygen.png)
 
 5. Перейдите в домашнюю директорию и перенесите ключ шифрования дрона `drone.key` в директорию `/etc/` командой:
 
@@ -59,9 +59,9 @@
 
 3. Откройте консоль в верхнем левом углу панели задач.
 
-    <img src="img/control_connection/console_open.png" width=500>
+    ![Open console](img/control_connection/console_open.png)
 
-    <img src="img/control_connection/console.png" width=500>
+    ![Console](img/control_connection/console.png)
 
 4. Вызовите команду записи идентификационного номера сетевого адаптера:
 
@@ -81,7 +81,7 @@
 
 2. Измените имя WiFi смети, заменив поле `ssid` на любое другое имя, к примеру *NavTALink-1234*
 
-    <img src="img/control_connection/wifi_name.png" width=500>
+    ![Change Wifi name](img/control_connection/wifi_name.png)
 
 ## Изменение частоты подключения адаптера
 
@@ -95,7 +95,7 @@
 
 2. Измените в нем параметр `wifi_channel`.
 
-    <img src="img/control_connection/wifi_channel.png" width=500>
+    ![Change Wifi channel](img/control_connection/wifi_channel.png)
 
 > **Caution** Данную настроку необходимо проводить на дроне и на пульте.
 
@@ -113,7 +113,7 @@
 
 3. Для настройки температуры отображаемой на изображении, измените параметр `offset` в блоке `temperature_calibration`. Для повышения температуры измените параметр на необходимое количество градусов в большую сторону, а для уменьшения в меньшую.
 
-    <img src="img/control_connection/duocam_config.png" width=500>
+    ![Duocam config](img/control_connection/duocam_config.png)
 
 ## Настройка полетного контроллера
 
@@ -125,4 +125,4 @@
 
 2. Во вкладке *Parameters* найдите параметр *SER_TEL1_BAUD* и установите скорость передачи 115200.
 
-    <img src="img/control_connection/fc_setup.png" width=500>
+    ![FC setup](img/control_connection/fc_setup.png)
