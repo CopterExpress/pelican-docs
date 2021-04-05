@@ -4,6 +4,7 @@ pages:
   - 'На главную': 'index.md'
   - 'Дронпоинт': 'dronepoint.md'
   - 'Дронпоинт внутренний API': 'DronePoint_API.md'
+  - 'Дронпоинт внутренний API': 'DronePoint_API2.md'
   - 'Дрон':
     - 'Техническая информация': 'pelican_hard_manual.md'
     - 'Прошивка': 'mavlink_uav_firmware.md'
