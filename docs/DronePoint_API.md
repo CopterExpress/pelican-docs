@@ -27,6 +27,10 @@ USB, а конкретней через реализацию **Maple Serial(COM 
     <br>
 
 
+<body lang=RU style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
  style='margin-left:12.2pt;border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
@@ -221,6 +225,10 @@ USB, а конкретней через реализацию **Maple Serial(COM 
   </td>
  </tr>
 </table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
 
 
 
