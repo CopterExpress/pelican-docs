@@ -382,7 +382,7 @@ h2
 	{mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Заголовок 2 Знак";
+	mso-style-link:"Р—Р°РіРѕР»РѕРІРѕРє 2 Р—РЅР°Рє";
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
 	mso-margin-bottom-alt:auto;
@@ -397,8 +397,8 @@ h3
 	{mso-style-noshow:yes;
 	mso-style-priority:9;
 	mso-style-qformat:yes;
-	mso-style-link:"Заголовок 3 Знак";
-	mso-style-next:Обычный;
+	mso-style-link:"Р—Р°РіРѕР»РѕРІРѕРє 3 Р—РЅР°Рє";
+	mso-style-next:РћР±С‹С‡РЅС‹Р№;
 	margin-top:10.0pt;
 	margin-right:0cm;
 	margin-bottom:0cm;
@@ -433,11 +433,11 @@ p
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";}
 span.2
-	{mso-style-name:"Заголовок 2 Знак";
+	{mso-style-name:"Р—Р°РіРѕР»РѕРІРѕРє 2 Р—РЅР°Рє";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Заголовок 2";
+	mso-style-link:"Р—Р°РіРѕР»РѕРІРѕРє 2";
 	mso-ansi-font-size:18.0pt;
 	mso-bidi-font-size:18.0pt;
 	font-family:"Times New Roman","serif";
@@ -448,12 +448,12 @@ span.2
 	mso-fareast-language:RU;
 	font-weight:bold;}
 span.3
-	{mso-style-name:"Заголовок 3 Знак";
+	{mso-style-name:"Р—Р°РіРѕР»РѕРІРѕРє 3 Р—РЅР°Рє";
 	mso-style-noshow:yes;
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Заголовок 3";
+	mso-style-link:"Р—Р°РіРѕР»РѕРІРѕРє 3";
 	font-family:"Cambria","serif";
 	mso-ascii-font-family:Cambria;
 	mso-ascii-theme-font:major-latin;
@@ -511,7 +511,7 @@ ul
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Обычная таблица";
+	{mso-style-name:"РћР±С‹С‡РЅР°СЏ С‚Р°Р±Р»РёС†Р°";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -555,28 +555,28 @@ ul
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:682.35pt'>
   <h2 align=center style='margin-bottom:6.6pt;text-align:center;background:
   white'><span style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>Аппаратный API дронпоинт2<o:p></o:p></span></h2>
+  "Segoe UI";color:#24292E'>РђРїРїР°СЂР°С‚РЅС‹Р№ API РґСЂРѕРЅРїРѕРёРЅС‚2<o:p></o:p></span></h2>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   0cm;text-align:justify;background:white;box-sizing: border-box;font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
   word-spacing:0px'><span style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI";color:#24292E'><span
-  style='mso-spacerun:yes'>             </span>Плата управления аппаратурой&nbsp;<strong
+  style='mso-spacerun:yes'>В В В В В В В В В В В В  </span>РџР»Р°С‚Р° СѓРїСЂР°РІР»РµРЅРёСЏ Р°РїРїР°СЂР°С‚СѓСЂРѕР№&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>дронпоинт2</span></strong>&nbsp;построена на
-  микроконтроллере <strong><span style='font-family:"Calibri Light","sans-serif";
+  mso-bidi-font-family:"Segoe UI"'>РґСЂРѕРЅРїРѕРёРЅС‚2</span></strong>&nbsp;РїРѕСЃС‚СЂРѕРµРЅР° РЅР°
+  РјРёРєСЂРѕРєРѕРЅС‚СЂРѕР»Р»РµСЂРµ <strong><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>stm32F103ZET6</span></strong>. <span
-  style='mso-spacerun:yes'> </span>Обмен данными с верхними программными
-  уровнями осуществляется по USB, а конкретней через реализацию&nbsp;<strong
+  style='mso-spacerun:yes'>В </span>РћР±РјРµРЅ РґР°РЅРЅС‹РјРё СЃ РІРµСЂС…РЅРёРјРё РїСЂРѕРіСЂР°РјРјРЅС‹РјРё
+  СѓСЂРѕРІРЅСЏРјРё РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚СЃСЏ РїРѕ USB, Р° РєРѕРЅРєСЂРµС‚РЅРµР№ С‡РµСЂРµР· СЂРµР°Р»РёР·Р°С†РёСЋ&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>Maple Serial(COM порт).</span></strong>&nbsp;Для
-  приема команд и отсылки данных по&nbsp;<strong style='box-sizing: border-box'><span
+  mso-bidi-font-family:"Segoe UI"'>Maple Serial(COM РїРѕСЂС‚).</span></strong>&nbsp;Р”Р»СЏ
+  РїСЂРёРµРјР° РєРѕРјР°РЅРґ Рё РѕС‚СЃС‹Р»РєРё РґР°РЅРЅС‹С… РїРѕ&nbsp;<strong style='box-sizing: border-box'><span
   style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>uart(COM
-  порт)</span></strong>&nbsp;используется протокол&nbsp;<strong
+  РїРѕСЂС‚)</span></strong>&nbsp;РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РїСЂРѕС‚РѕРєРѕР»&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>JSON</span></strong>.<br style='box-sizing: border-box'>
-  Имеются следующие группы команд:<o:p></o:p></span></p>
+  РРјРµСЋС‚СЃСЏ СЃР»РµРґСѓСЋС‰РёРµ РіСЂСѓРїРїС‹ РєРѕРјР°РЅРґ:<o:p></o:p></span></p>
   <p style='margin-top:6.6pt;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   36.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo2;tab-stops:list 36.0pt;
   background:white;box-sizing: border-box'><![if !supportLists]><span
@@ -585,9 +585,9 @@ ul
   style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>Команды перемещения каретки</span></strong><span
+  "Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ РїРµСЂРµРјРµС‰РµРЅРёСЏ РєР°СЂРµС‚РєРё</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>, навигация по ячейкам.<o:p></o:p></span></p>
+  "Segoe UI";color:#24292E'>, РЅР°РІРёРіР°С†РёСЏ РїРѕ СЏС‡РµР№РєР°Рј.<o:p></o:p></span></p>
   <p style='margin-top:6.6pt;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l1 level1 lfo2;
   tab-stops:list 36.0pt;background:white;box-sizing: border-box'><![if !supportLists]><span
@@ -596,10 +596,10 @@ ul
   style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>Команды специальных операций</span></strong><span
+  "Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ СЃРїРµС†РёР°Р»СЊРЅС‹С… РѕРїРµСЂР°С†РёР№</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>. Это допустим загрузка или выгрузка контейнера в ячейку,
-  установка контейнера в коптер и.т.д.<o:p></o:p></span></p>
+  "Segoe UI";color:#24292E'>. Р­С‚Рѕ РґРѕРїСѓСЃС‚РёРј Р·Р°РіСЂСѓР·РєР° РёР»Рё РІС‹РіСЂСѓР·РєР° РєРѕРЅС‚РµР№РЅРµСЂР° РІ СЏС‡РµР№РєСѓ,
+  СѓСЃС‚Р°РЅРѕРІРєР° РєРѕРЅС‚РµР№РЅРµСЂР° РІ РєРѕРїС‚РµСЂ Рё.С‚.Рґ.<o:p></o:p></span></p>
   <p style='margin-top:6.6pt;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l1 level1 lfo2;
   tab-stops:list 36.0pt;background:white;box-sizing: border-box'><![if !supportLists]><span
@@ -608,16 +608,16 @@ ul
   style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>Команды тестирования</span></strong><span
+  "Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;отдельных элементов и сценариев. Можно
-  использовать для управления какими-то отдельными исполнительными механизмами.
-  Допустим пощелкать соленоидом отсека выдачи, открыть или закрыть замок
-  контейнера на коптере, открыть или закрыть замок крышки зарядки, то-есть это
-  те простые<br style='box-sizing: border-box'>
-  операции которые входят в состав более сложных команд специальных операций. Также
-  сюда входят сценарии тест оси Z, тест оси X, комплексное перемещение по различным
-  ячейкам с погрузкой и выгрузкой контейнера и.т.д.<o:p></o:p></span></p>
+  "Segoe UI";color:#24292E'>&nbsp;РѕС‚РґРµР»СЊРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ Рё СЃС†РµРЅР°СЂРёРµРІ. РњРѕР¶РЅРѕ
+  РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РґР»СЏ СѓРїСЂР°РІР»РµРЅРёСЏ РєР°РєРёРјРё-С‚Рѕ РѕС‚РґРµР»СЊРЅС‹РјРё РёСЃРїРѕР»РЅРёС‚РµР»СЊРЅС‹РјРё РјРµС…Р°РЅРёР·РјР°РјРё.
+  Р”РѕРїСѓСЃС‚РёРј РїРѕС‰РµР»РєР°С‚СЊ СЃРѕР»РµРЅРѕРёРґРѕРј РѕС‚СЃРµРєР° РІС‹РґР°С‡Рё, РѕС‚РєСЂС‹С‚СЊ РёР»Рё Р·Р°РєСЂС‹С‚СЊ Р·Р°РјРѕРє
+  РєРѕРЅС‚РµР№РЅРµСЂР° РЅР° РєРѕРїС‚РµСЂРµ, РѕС‚РєСЂС‹С‚СЊ РёР»Рё Р·Р°РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєСЂС‹С€РєРё Р·Р°СЂСЏРґРєРё, С‚Рѕ-РµСЃС‚СЊ СЌС‚Рѕ
+  С‚Рµ РїСЂРѕСЃС‚С‹Рµ<br style='box-sizing: border-box'>
+  РѕРїРµСЂР°С†РёРё РєРѕС‚РѕСЂС‹Рµ РІС…РѕРґСЏС‚ РІ СЃРѕСЃС‚Р°РІ Р±РѕР»РµРµ СЃР»РѕР¶РЅС‹С… РєРѕРјР°РЅРґ СЃРїРµС†РёР°Р»СЊРЅС‹С… РѕРїРµСЂР°С†РёР№. РўР°РєР¶Рµ
+  СЃСЋРґР° РІС…РѕРґСЏС‚ СЃС†РµРЅР°СЂРёРё С‚РµСЃС‚ РѕСЃРё Z, С‚РµСЃС‚ РѕСЃРё X, РєРѕРјРїР»РµРєСЃРЅРѕРµ РїРµСЂРµРјРµС‰РµРЅРёРµ РїРѕ СЂР°Р·Р»РёС‡РЅС‹Рј
+  СЏС‡РµР№РєР°Рј СЃ РїРѕРіСЂСѓР·РєРѕР№ Рё РІС‹РіСЂСѓР·РєРѕР№ РєРѕРЅС‚РµР№РЅРµСЂР° Рё.С‚.Рґ.<o:p></o:p></span></p>
   <p style='margin-top:6.6pt;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:l1 level1 lfo2;
   tab-stops:list 36.0pt;background:white;box-sizing: border-box'><![if !supportLists]><span
@@ -626,12 +626,12 @@ ul
   style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>Команды посадочному столу</span></strong><span
+  "Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ РїРѕСЃР°РґРѕС‡РЅРѕРјСѓ СЃС‚РѕР»Сѓ</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>. Исполнительным механизмом посадочного стола является
-  механизм позиционирования. Он выполняет функцию центрирования коптера после
-  посадки т.е. выставляет его точно над верхним люком, точное положение коптера
-  очень важно для операций установки и снятия контейнера.<br style='mso-special-character:
+  "Segoe UI";color:#24292E'>. РСЃРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рј РјРµС…Р°РЅРёР·РјРѕРј РїРѕСЃР°РґРѕС‡РЅРѕРіРѕ СЃС‚РѕР»Р° СЏРІР»СЏРµС‚СЃСЏ
+  РјРµС…Р°РЅРёР·Рј РїРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёСЏ. РћРЅ РІС‹РїРѕР»РЅСЏРµС‚ С„СѓРЅРєС†РёСЋ С†РµРЅС‚СЂРёСЂРѕРІР°РЅРёСЏ РєРѕРїС‚РµСЂР° РїРѕСЃР»Рµ
+  РїРѕСЃР°РґРєРё С‚.Рµ. РІС‹СЃС‚Р°РІР»СЏРµС‚ РµРіРѕ С‚РѕС‡РЅРѕ РЅР°Рґ РІРµСЂС…РЅРёРј Р»СЋРєРѕРј, С‚РѕС‡РЅРѕРµ РїРѕР»РѕР¶РµРЅРёРµ РєРѕРїС‚РµСЂР°
+  РѕС‡РµРЅСЊ РІР°Р¶РЅРѕ РґР»СЏ РѕРїРµСЂР°С†РёР№ СѓСЃС‚Р°РЅРѕРІРєРё Рё СЃРЅСЏС‚РёСЏ РєРѕРЅС‚РµР№РЅРµСЂР°.<br style='mso-special-character:
   line-break;box-sizing: border-box'>
   <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
   <![endif]><o:p></o:p></span></p>
@@ -648,64 +648,64 @@ ul
   text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial;word-spacing:
   0px'><span style='font-size:16.0pt;line-height:115%;font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>Команды перемещения каретки<o:p></o:p></span></h3>
+  mso-bidi-font-family:"Segoe UI"'>РљРѕРјР°РЅРґС‹ РїРµСЂРµРјРµС‰РµРЅРёСЏ РєР°СЂРµС‚РєРё<o:p></o:p></span></h3>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   0cm;background:white;box-sizing: border-box;font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
   word-spacing:0px'><span style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI";color:#24292E'><span
-  style='mso-spacerun:yes'>        </span>Команда перемещения каретки может
-  иметь следующий вид<br style='box-sizing: border-box'>
+  style='mso-spacerun:yes'>В В В В В В В  </span>РљРѕРјР°РЅРґР° РїРµСЂРµРјРµС‰РµРЅРёСЏ РєР°СЂРµС‚РєРё РјРѕР¶РµС‚
+  РёРјРµС‚СЊ СЃР»РµРґСѓСЋС‰РёР№ РІРёРґ<br style='box-sizing: border-box'>
   </span><strong style='box-sizing: border-box'><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:red'>{&quot;command&quot;: &quot;goto_cell&quot;, &quot;params&quot;:
   {&quot;x&quot;: 2, &quot;y&quot;: 2, &quot;z&quot;: 1}}</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:#24292E'><br style='box-sizing: border-box'>
-  Команда&nbsp;</span><strong style='box-sizing: border-box'><span
+  РљРѕРјР°РЅРґР°&nbsp;</span><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>goto_cell</span></strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
-  color:#24292E'>&nbsp;имеет следующий набор параметров:<br style='box-sizing: border-box'>
+  color:#24292E'>&nbsp;РёРјРµРµС‚ СЃР»РµРґСѓСЋС‰РёР№ РЅР°Р±РѕСЂ РїР°СЂР°РјРµС‚СЂРѕРІ:<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>     </span></span></strong></span><strong><span
+  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>В В В В  </span></span></strong></span><strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>Z</span></strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
-  color:#24292E'>&nbsp;уровень каретки по z от&nbsp;</span><strong
+  color:#24292E'>&nbsp;СѓСЂРѕРІРµРЅСЊ РєР°СЂРµС‚РєРё РїРѕ z РѕС‚&nbsp;</span><strong
   style='box-sizing: border-box'><span style='font-size:14.0pt;font-family:
   "Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";color:red'>0</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;до&nbsp;</span><strong style='box-sizing: border-box'><span
+  "Segoe UI";color:#24292E'>&nbsp;РґРѕ&nbsp;</span><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>8</span></strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:#24292E'><br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>     </span></span></strong></span><strong><span
+  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>В В В В  </span></span></strong></span><strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>X</span></strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
-  color:#24292E'>&nbsp;положение каретки по x от&nbsp;</span><strong
+  color:#24292E'>&nbsp;РїРѕР»РѕР¶РµРЅРёРµ РєР°СЂРµС‚РєРё РїРѕ x РѕС‚&nbsp;</span><strong
   style='box-sizing: border-box'><span style='font-size:14.0pt;font-family:
   "Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";color:red'>0</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;до&nbsp;</span><strong style='box-sizing: border-box'><span
+  "Segoe UI";color:#24292E'>&nbsp;РґРѕ&nbsp;</span><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>4</span></strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:#24292E'><br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>     </span></span></strong></span><strong><span
+  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>В В В В  </span></span></strong></span><strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>Y</span></strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
-  color:#24292E'>&nbsp;положение каретки по y от&nbsp;</span><strong
+  color:#24292E'>&nbsp;РїРѕР»РѕР¶РµРЅРёРµ РєР°СЂРµС‚РєРё РїРѕ y РѕС‚&nbsp;</span><strong
   style='box-sizing: border-box'><span style='font-size:14.0pt;font-family:
   "Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";color:red'>0</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;до&nbsp;</span><strong style='box-sizing: border-box'><span
+  "Segoe UI";color:#24292E'>&nbsp;РґРѕ&nbsp;</span><strong style='box-sizing: border-box'><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:red'>3</span></strong><strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
@@ -714,25 +714,25 @@ ul
   0cm;text-align:justify;background:white'><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:#24292E'><br>
-  <span style='mso-spacerun:yes'>      </span>Здесь&nbsp;<strong
+  <span style='mso-spacerun:yes'>В В В В В  </span>Р—РґРµСЃСЊ&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>Y</span></strong>&nbsp;выполняет следующую
-  роль когда&nbsp;<strong style='box-sizing: border-box'><span
-  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>1</span></strong>&nbsp;то
-  после выхода каретки на заданную ячейку команды погрузки и выгрузки будут
-  выполняться с задней ячейкой, когда <strong><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>3</span></strong>&nbsp;то с передней, если&nbsp;<strong
+  mso-bidi-font-family:"Segoe UI"'>Y</span></strong>&nbsp;РІС‹РїРѕР»РЅСЏРµС‚ СЃР»РµРґСѓСЋС‰СѓСЋ
+  СЂРѕР»СЊ РєРѕРіРґР°&nbsp;<strong style='box-sizing: border-box'><span
+  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>1</span></strong>&nbsp;С‚Рѕ
+  РїРѕСЃР»Рµ РІС‹С…РѕРґР° РєР°СЂРµС‚РєРё РЅР° Р·Р°РґР°РЅРЅСѓСЋ СЏС‡РµР№РєСѓ РєРѕРјР°РЅРґС‹ РїРѕРіСЂСѓР·РєРё Рё РІС‹РіСЂСѓР·РєРё Р±СѓРґСѓС‚
+  РІС‹РїРѕР»РЅСЏС‚СЊСЃСЏ СЃ Р·Р°РґРЅРµР№ СЏС‡РµР№РєРѕР№, РєРѕРіРґР° <strong><span style='font-family:"Calibri Light","sans-serif";
+  mso-bidi-font-family:"Segoe UI"'>3</span></strong>&nbsp;С‚Рѕ СЃ РїРµСЂРµРґРЅРµР№, РµСЃР»Рё&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>2</span></strong>&nbsp;это просто
-  перемещение.<br style='box-sizing: border-box'>
-  Перед у дронпоинта там где отсек выдачи.<o:p></o:p></span></p>
+  mso-bidi-font-family:"Segoe UI"'>2</span></strong>&nbsp;СЌС‚Рѕ РїСЂРѕСЃС‚Рѕ
+  РїРµСЂРµРјРµС‰РµРЅРёРµ.<br style='box-sizing: border-box'>
+  РџРµСЂРµРґ Сѓ РґСЂРѕРЅРїРѕРёРЅС‚Р° С‚Р°Рј РіРґРµ РѕС‚СЃРµРє РІС‹РґР°С‡Рё.<o:p></o:p></span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   0cm;background:white'><span style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI";color:#24292E'><br>
-  <span style='mso-spacerun:yes'>      </span>Команда перемещения каретки может
-  иметь следующий вид<br style='box-sizing: border-box'>
+  <span style='mso-spacerun:yes'>В В В В В  </span>РљРѕРјР°РЅРґР° РїРµСЂРµРјРµС‰РµРЅРёСЏ РєР°СЂРµС‚РєРё РјРѕР¶РµС‚
+  РёРјРµС‚СЊ СЃР»РµРґСѓСЋС‰РёР№ РІРёРґ<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>      
+  mso-bidi-font-family:"Segoe UI"'><span style='mso-spacerun:yes'>В В В В В В 
   </span></span></strong></span><strong><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:red'>{&quot;command&quot;: &quot;goto_cell&quot;, &quot;params&quot;:
@@ -741,43 +741,43 @@ ul
   0cm;text-align:justify;background:white'><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:#24292E'><br>
-  <span style='mso-spacerun:yes'>       </span>Когда в команде присутствует
-  параметр&nbsp;<strong style='box-sizing: border-box'><span style='font-family:
-  "Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Xkr</span></strong>&nbsp;это
-  воспринимается как<br style='box-sizing: border-box'>
-  движение каретки к позиции установки или снятие крышки зарядки.<br
+  <span style='mso-spacerun:yes'>В В В В В В  </span>РљРѕРіРґР° РІ РєРѕРјР°РЅРґРµ РїСЂРёСЃСѓС‚СЃС‚РІСѓРµС‚
+  РїР°СЂР°РјРµС‚СЂ&nbsp;<strong style='box-sizing: border-box'><span style='font-family:
+  "Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Xkr</span></strong>&nbsp;СЌС‚Рѕ
+  РІРѕСЃРїСЂРёРЅРёРјР°РµС‚СЃСЏ РєР°Рє<br style='box-sizing: border-box'>
+  РґРІРёР¶РµРЅРёРµ РєР°СЂРµС‚РєРё Рє РїРѕР·РёС†РёРё СѓСЃС‚Р°РЅРѕРІРєРё РёР»Рё СЃРЅСЏС‚РёРµ РєСЂС‹С€РєРё Р·Р°СЂСЏРґРєРё.<br
   style='box-sizing: border-box'>
-  У&nbsp;<strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>дронпоинт2</span></strong>&nbsp;имеется&nbsp;<strong
+  РЈ&nbsp;<strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
+  mso-bidi-font-family:"Segoe UI"'>РґСЂРѕРЅРїРѕРёРЅС‚2</span></strong>&nbsp;РёРјРµРµС‚СЃСЏ&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>8</span></strong>&nbsp;ячеек для установки
-  крышки зарядки, следовательно параметр может принимать от&nbsp;<strong
+  mso-bidi-font-family:"Segoe UI"'>8</span></strong>&nbsp;СЏС‡РµРµРє РґР»СЏ СѓСЃС‚Р°РЅРѕРІРєРё
+  РєСЂС‹С€РєРё Р·Р°СЂСЏРґРєРё, СЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕ РїР°СЂР°РјРµС‚СЂ РјРѕР¶РµС‚ РїСЂРёРЅРёРјР°С‚СЊ РѕС‚&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>0</span></strong>&nbsp;до&nbsp;<strong
+  mso-bidi-font-family:"Segoe UI"'>0</span></strong>&nbsp;РґРѕ&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>7</span></strong>. Остальные параметры не
-  несут смысла. Заставить каретку выйти на позиции операций с крышками зарядки
-  можно также используя<span
-  style='mso-spacerun:yes'>                           </span><span
-  style='mso-spacerun:yes'> </span>такие команды:&nbsp;<strong
+  mso-bidi-font-family:"Segoe UI"'>7</span></strong>. РћСЃС‚Р°Р»СЊРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ РЅРµ
+  РЅРµСЃСѓС‚ СЃРјС‹СЃР»Р°. Р—Р°СЃС‚Р°РІРёС‚СЊ РєР°СЂРµС‚РєСѓ РІС‹Р№С‚Рё РЅР° РїРѕР·РёС†РёРё РѕРїРµСЂР°С†РёР№ СЃ РєСЂС‹С€РєР°РјРё Р·Р°СЂСЏРґРєРё
+  РјРѕР¶РЅРѕ С‚Р°РєР¶Рµ РёСЃРїРѕР»СЊР·СѓСЏ<span
+  style='mso-spacerun:yes'>В В В В В В В В В В В В В В В В В В В В В В В В В В  </span><span
+  style='mso-spacerun:yes'>В </span>С‚Р°РєРёРµ РєРѕРјР°РЅРґС‹:&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;posKR0&quot;} {&quot;command&quot;:&quot;posKR1&quot;}</span></strong><br
   style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;posKR3&quot;}</span></strong>&nbsp;и.т.д.<br
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;posKR3&quot;}</span></strong>&nbsp;Рё.С‚.Рґ.<br
   style='mso-special-character:line-break;box-sizing: border-box'>
   <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
   <![endif]><o:p></o:p></span></p>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   0cm;background:white'><span style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI";color:#24292E'><span
-  style='mso-spacerun:yes'>       </span>Также имеются следующие команды
-  перемещения<br style='box-sizing: border-box'>
+  style='mso-spacerun:yes'>В В В В В В  </span>РўР°РєР¶Рµ РёРјРµСЋС‚СЃСЏ СЃР»РµРґСѓСЋС‰РёРµ РєРѕРјР°РЅРґС‹
+  РїРµСЂРµРјРµС‰РµРЅРёСЏ<br style='box-sizing: border-box'>
   </span><strong style='box-sizing: border-box'><span style='font-size:14.0pt;
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:red'>{&quot;command&quot;:&quot;posOV&quot;}</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;- позиция отсека выдачи, равносильна команде<br
+  "Segoe UI";color:#24292E'>&nbsp;- РїРѕР·РёС†РёСЏ РѕС‚СЃРµРєР° РІС‹РґР°С‡Рё, СЂР°РІРЅРѕСЃРёР»СЊРЅР° РєРѕРјР°РЅРґРµ<br
   style='box-sizing: border-box'>
   {&quot;command&quot;: &quot;goto_cell&quot;, &quot;params&quot;:
   {&quot;x&quot;: 2, &quot;y&quot;: 3, &quot;z&quot;: 1}}<br style='box-sizing: border-box'>
@@ -785,8 +785,8 @@ ul
   font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI";
   color:red'>{&quot;command&quot;:&quot;posDN&quot;}</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;- позиция операций с дроном(подается перед
-  операциями с дроном, вставить или снять контейнер).<br style='box-sizing: border-box'>
+  "Segoe UI";color:#24292E'>&nbsp;- РїРѕР·РёС†РёСЏ РѕРїРµСЂР°С†РёР№ СЃ РґСЂРѕРЅРѕРј(РїРѕРґР°РµС‚СЃСЏ РїРµСЂРµРґ
+  РѕРїРµСЂР°С†РёСЏРјРё СЃ РґСЂРѕРЅРѕРј, РІСЃС‚Р°РІРёС‚СЊ РёР»Рё СЃРЅСЏС‚СЊ РєРѕРЅС‚РµР№РЅРµСЂ).<br style='box-sizing: border-box'>
   <br style='mso-special-character:line-break;box-sizing: border-box'>
   <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
   <![endif]><o:p></o:p></span></p>
@@ -796,7 +796,7 @@ ul
   text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial;word-spacing:
   0px'><span style='font-size:16.0pt;line-height:115%;font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI";color:#24292E'>Команды специальных операций.<o:p></o:p></span></h3>
+  mso-bidi-font-family:"Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ СЃРїРµС†РёР°Р»СЊРЅС‹С… РѕРїРµСЂР°С†РёР№.<o:p></o:p></span></h3>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   0cm;background:white;box-sizing: border-box;font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
@@ -805,72 +805,72 @@ ul
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:#24292E'>{&quot;command&quot;:&quot;loadingCELL&quot;}</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;- загрузка в ячейку переднею или заднею будет
-  зависеть<br style='box-sizing: border-box'>
-  от того, что было указанно в параметре&nbsp;<strong style='box-sizing: border-box'><span
-  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Y</span></strong>&nbsp;команды&nbsp;<strong
+  "Segoe UI";color:#24292E'>&nbsp;- Р·Р°РіСЂСѓР·РєР° РІ СЏС‡РµР№РєСѓ РїРµСЂРµРґРЅРµСЋ РёР»Рё Р·Р°РґРЅРµСЋ Р±СѓРґРµС‚
+  Р·Р°РІРёСЃРµС‚СЊ<br style='box-sizing: border-box'>
+  РѕС‚ С‚РѕРіРѕ, С‡С‚Рѕ Р±С‹Р»Рѕ СѓРєР°Р·Р°РЅРЅРѕ РІ РїР°СЂР°РјРµС‚СЂРµ&nbsp;<strong style='box-sizing: border-box'><span
+  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Y</span></strong>&nbsp;РєРѕРјР°РЅРґС‹&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>goto_cell</span></strong>&nbsp;при
-  перемещении к этой ячейки. Напомню если&nbsp;<strong style='box-sizing: border-box'><span
+  mso-bidi-font-family:"Segoe UI"'>goto_cell</span></strong>&nbsp;РїСЂРё
+  РїРµСЂРµРјРµС‰РµРЅРёРё Рє СЌС‚РѕР№ СЏС‡РµР№РєРё. РќР°РїРѕРјРЅСЋ РµСЃР»Рё&nbsp;<strong style='box-sizing: border-box'><span
   style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>&quot;y&quot;:
-  3</span></strong>&nbsp;это перед, если&nbsp;<strong style='box-sizing: border-box'><span
+  3</span></strong>&nbsp;СЌС‚Рѕ РїРµСЂРµРґ, РµСЃР»Рё&nbsp;<strong style='box-sizing: border-box'><span
   style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>&quot;y&quot;:
-  1</span></strong>&nbsp;это зад, если&nbsp;<strong style='box-sizing: border-box'><span
+  1</span></strong>&nbsp;СЌС‚Рѕ Р·Р°Рґ, РµСЃР»Рё&nbsp;<strong style='box-sizing: border-box'><span
   style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>&quot;y&quot;:
-  2</span></strong>&nbsp;это просто перемещение.<br style='box-sizing: border-box'>
+  2</span></strong>&nbsp;СЌС‚Рѕ РїСЂРѕСЃС‚Рѕ РїРµСЂРµРјРµС‰РµРЅРёРµ.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;unloadingCELL&quot;}</span></strong>&nbsp;-
-  выгрузка из ячейки передней или задней также<br style='box-sizing: border-box'>
-  зависит от параметра&nbsp;<strong style='box-sizing: border-box'><span
-  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Y</span></strong>&nbsp;команды&nbsp;<strong
+  РІС‹РіСЂСѓР·РєР° РёР· СЏС‡РµР№РєРё РїРµСЂРµРґРЅРµР№ РёР»Рё Р·Р°РґРЅРµР№ С‚Р°РєР¶Рµ<br style='box-sizing: border-box'>
+  Р·Р°РІРёСЃРёС‚ РѕС‚ РїР°СЂР°РјРµС‚СЂР°&nbsp;<strong style='box-sizing: border-box'><span
+  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Y</span></strong>&nbsp;РєРѕРјР°РЅРґС‹&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>goto_cell.</span></strong><br
   style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;lock_top_hatch_lock&quot;}</span></strong>&nbsp;-
-  установка верхнего люка.<br style='box-sizing: border-box'>
+  СѓСЃС‚Р°РЅРѕРІРєР° РІРµСЂС…РЅРµРіРѕ Р»СЋРєР°.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;release_top_hatch_lock&quot;}</span></strong>&nbsp;-
-  снятие верхнего люка .<br style='box-sizing: border-box'>
+  СЃРЅСЏС‚РёРµ РІРµСЂС…РЅРµРіРѕ Р»СЋРєР° .<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;charging_cover_removing&quot;}</span></strong>&nbsp;–
-  снятие крышки с зарядки.<br style='box-sizing: border-box'>
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;charging_cover_removing&quot;}</span></strong>&nbsp;вЂ“
+  СЃРЅСЏС‚РёРµ РєСЂС‹С€РєРё СЃ Р·Р°СЂСЏРґРєРё.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;charging_cover_install&quot;}</span></strong>&nbsp;–
-  установка крышки на зарядку.<br style='box-sizing: border-box'>
-  Номер крышки задается позицией на которой стоит каретка. То есть перед операциями
-  с<br style='box-sizing: border-box'>
-  крышками надо выполнить команду перемещения к нужной ячейки крышки. За это
-  отвечает параметр&nbsp;<strong style='box-sizing: border-box'><span
-  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Xkr</span></strong>&nbsp;команды&nbsp;<strong
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;charging_cover_install&quot;}</span></strong>&nbsp;вЂ“
+  СѓСЃС‚Р°РЅРѕРІРєР° РєСЂС‹С€РєРё РЅР° Р·Р°СЂСЏРґРєСѓ.<br style='box-sizing: border-box'>
+  РќРѕРјРµСЂ РєСЂС‹С€РєРё Р·Р°РґР°РµС‚СЃСЏ РїРѕР·РёС†РёРµР№ РЅР° РєРѕС‚РѕСЂРѕР№ СЃС‚РѕРёС‚ РєР°СЂРµС‚РєР°. РўРѕ РµСЃС‚СЊ РїРµСЂРµРґ РѕРїРµСЂР°С†РёСЏРјРё
+  СЃ<br style='box-sizing: border-box'>
+  РєСЂС‹С€РєР°РјРё РЅР°РґРѕ РІС‹РїРѕР»РЅРёС‚СЊ РєРѕРјР°РЅРґСѓ РїРµСЂРµРјРµС‰РµРЅРёСЏ Рє РЅСѓР¶РЅРѕР№ СЏС‡РµР№РєРё РєСЂС‹С€РєРё. Р—Р° СЌС‚Рѕ
+  РѕС‚РІРµС‡Р°РµС‚ РїР°СЂР°РјРµС‚СЂ&nbsp;<strong style='box-sizing: border-box'><span
+  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>Xkr</span></strong>&nbsp;РєРѕРјР°РЅРґС‹&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>goto_cell</span></strong>&nbsp;или команды&nbsp;<strong
+  mso-bidi-font-family:"Segoe UI"'>goto_cell</span></strong>&nbsp;РёР»Рё РєРѕРјР°РЅРґС‹&nbsp;<strong
   style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;posKR0&quot;}
   {&quot;command&quot;:&quot;posKR1&quot;}</span></strong><br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;hatch_delivery_open&quot;}</span></strong>&nbsp;-
-  открыть люк отсека выдачи.<br style='box-sizing: border-box'>
+  РѕС‚РєСЂС‹С‚СЊ Р»СЋРє РѕС‚СЃРµРєР° РІС‹РґР°С‡Рё.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;hatch_delivery_close&quot;}</span></strong>&nbsp;-
-  закрыть люк отсека выдачи.<br style='box-sizing: border-box'>
+  Р·Р°РєСЂС‹С‚СЊ Р»СЋРє РѕС‚СЃРµРєР° РІС‹РґР°С‡Рё.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;container_insert&quot;}</span></strong>&nbsp;–
-  установка контейнера в коптер.<br style='box-sizing: border-box'>
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;container_insert&quot;}</span></strong>&nbsp;вЂ“
+  СѓСЃС‚Р°РЅРѕРІРєР° РєРѕРЅС‚РµР№РЅРµСЂР° РІ РєРѕРїС‚РµСЂ.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;container_removing&quot;}</span></strong>&nbsp;–
-  снятие контейнера с коптера.<br style='box-sizing: border-box'>
-  Эти операции выполняются при открытом верхнем люке и нахождении каретки на<br
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;container_removing&quot;}</span></strong>&nbsp;вЂ“
+  СЃРЅСЏС‚РёРµ РєРѕРЅС‚РµР№РЅРµСЂР° СЃ РєРѕРїС‚РµСЂР°.<br style='box-sizing: border-box'>
+  Р­С‚Рё РѕРїРµСЂР°С†РёРё РІС‹РїРѕР»РЅСЏСЋС‚СЃСЏ РїСЂРё РѕС‚РєСЂС‹С‚РѕРј РІРµСЂС…РЅРµРј Р»СЋРєРµ Рё РЅР°С…РѕР¶РґРµРЅРёРё РєР°СЂРµС‚РєРё РЅР°<br
   style='box-sizing: border-box'>
-  определенной позиции. Для&nbsp;<strong style='box-sizing: border-box'><span
-  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>дронпоинта2</span></strong>&nbsp;позиция
-  операций с коптером следующая<br style='box-sizing: border-box'>
+  РѕРїСЂРµРґРµР»РµРЅРЅРѕР№ РїРѕР·РёС†РёРё. Р”Р»СЏ&nbsp;<strong style='box-sizing: border-box'><span
+  style='font-family:"Calibri Light","sans-serif";mso-bidi-font-family:"Segoe UI"'>РґСЂРѕРЅРїРѕРёРЅС‚Р°2</span></strong>&nbsp;РїРѕР·РёС†РёСЏ
+  РѕРїРµСЂР°С†РёР№ СЃ РєРѕРїС‚РµСЂРѕРј СЃР»РµРґСѓСЋС‰Р°СЏ<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;: &quot;goto_cell&quot;,
   &quot;params&quot;: {&quot;x&quot;: 2, &quot;y&quot;: 2, &quot;z&quot;: 5}}</span></strong><br
   style='box-sizing: border-box'>
-  Но так как у разных дронпоинтов эта позиция может отличатся есть специальная
-  команда<br style='box-sizing: border-box'>
+  РќРѕ С‚Р°Рє РєР°Рє Сѓ СЂР°Р·РЅС‹С… РґСЂРѕРЅРїРѕРёРЅС‚РѕРІ СЌС‚Р° РїРѕР·РёС†РёСЏ РјРѕР¶РµС‚ РѕС‚Р»РёС‡Р°С‚СЃСЏ РµСЃС‚СЊ СЃРїРµС†РёР°Р»СЊРЅР°СЏ
+  РєРѕРјР°РЅРґР°<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;posDN&quot;}</span></strong><br
   style='box-sizing: border-box'>
@@ -883,7 +883,7 @@ ul
   text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial;word-spacing:
   0px'><span style='font-size:16.0pt;line-height:115%;font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI";color:#24292E'>Команды тестирования.<o:p></o:p></span></h3>
+  mso-bidi-font-family:"Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ.<o:p></o:p></span></h3>
   <p style='margin-top:0cm;margin-right:0cm;margin-bottom:6.6pt;margin-left:
   0cm;background:white;box-sizing: border-box;font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
@@ -892,46 +892,46 @@ ul
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:#24292E'>{&quot;command&quot;:&quot;Ztest&quot;}</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;- тест оси Z.<br style='box-sizing: border-box'>
+  "Segoe UI";color:#24292E'>&nbsp;- С‚РµСЃС‚ РѕСЃРё Z.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;Ytest&quot;}</span></strong>&nbsp;-
-  тест оси Y.<br style='box-sizing: border-box'>
+  С‚РµСЃС‚ РѕСЃРё Y.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;Xtest&quot;}</span></strong>&nbsp;-
-  тест оси X.<br style='box-sizing: border-box'>
+  С‚РµСЃС‚ РѕСЃРё X.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;ABlock&quot;}</span></strong>&nbsp;–
-  выдвинуть крышки платформы А<br style='box-sizing: border-box'>
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;ABlock&quot;}</span></strong>&nbsp;вЂ“
+  РІС‹РґРІРёРЅСѓС‚СЊ РєСЂС‹С€РєРё РїР»Р°С‚С„РѕСЂРјС‹ Рђ<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;BBlock&quot;}</span></strong>&nbsp;–
-  выдвинуть крышки платформы B<br style='box-sizing: border-box'>
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;BBlock&quot;}</span></strong>&nbsp;вЂ“
+  РІС‹РґРІРёРЅСѓС‚СЊ РєСЂС‹С€РєРё РїР»Р°С‚С„РѕСЂРјС‹ B<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;VLtest&quot;}</span></strong>&nbsp;-
-  тест верхнего люка<br style='box-sizing: border-box'>
+  С‚РµСЃС‚ РІРµСЂС…РЅРµРіРѕ Р»СЋРєР°<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;lockKR2O&quot;}</span></strong>&nbsp;-
-  открыть замок крышки KR2<br style='box-sizing: border-box'>
+  РѕС‚РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєСЂС‹С€РєРё KR2<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;lockKR2C&quot;}</span></strong>&nbsp;-
-  закрыть замок крышки KR2<br style='box-sizing: border-box'>
+  Р·Р°РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєСЂС‹С€РєРё KR2<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;lockKR3O&quot;}</span></strong>&nbsp;-
-  открыть замок крышки KR3<br style='box-sizing: border-box'>
+  РѕС‚РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєСЂС‹С€РєРё KR3<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;lockKR3C&quot;}</span></strong>&nbsp;-
-  закрыть замок крышки KR3 и.т.д.<br style='box-sizing: border-box'>
+  Р·Р°РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєСЂС‹С€РєРё KR3 Рё.С‚.Рґ.<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;LockConO&quot;}</span></strong>&nbsp;-
-  открыть замок контейнера коптера<br style='box-sizing: border-box'>
+  РѕС‚РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєРѕРЅС‚РµР№РЅРµСЂР° РєРѕРїС‚РµСЂР°<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;LockConC&quot;}</span></strong>&nbsp;-
-  закрыть замок контейнера коптера<br style='box-sizing: border-box'>
+  Р·Р°РєСЂС‹С‚СЊ Р·Р°РјРѕРє РєРѕРЅС‚РµР№РЅРµСЂР° РєРѕРїС‚РµСЂР°<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;testSol&quot;}</span></strong>&nbsp;-
-  тест соленоида отсека выдачи<br style='box-sizing: border-box'>
+  С‚РµСЃС‚ СЃРѕР»РµРЅРѕРёРґР° РѕС‚СЃРµРєР° РІС‹РґР°С‡Рё<br style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
   mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;tesCont&quot;}</span></strong>&nbsp;-
-  тест контейнера коптера устанавливает и снимает 10раз.<br style='box-sizing: border-box'>
+  С‚РµСЃС‚ РєРѕРЅС‚РµР№РЅРµСЂР° РєРѕРїС‚РµСЂР° СѓСЃС‚Р°РЅР°РІР»РёРІР°РµС‚ Рё СЃРЅРёРјР°РµС‚ 10СЂР°Р·.<br style='box-sizing: border-box'>
   <br style='mso-special-character:line-break;box-sizing: border-box'>
   <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
   <![endif]><o:p></o:p></span></p>
@@ -941,7 +941,7 @@ ul
   text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
   text-decoration-style: initial;text-decoration-color: initial;word-spacing:
   0px'><span style='font-size:16.0pt;line-height:115%;font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI";color:#24292E'>Команды посадочному столу.<o:p></o:p></span></h3>
+  mso-bidi-font-family:"Segoe UI";color:#24292E'>РљРѕРјР°РЅРґС‹ РїРѕСЃР°РґРѕС‡РЅРѕРјСѓ СЃС‚РѕР»Сѓ.<o:p></o:p></span></h3>
   <p style='margin-top:0cm;background:white;box-sizing: border-box;font-variant-ligatures: normal;
   font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
   text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
@@ -949,16 +949,16 @@ ul
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
   "Segoe UI";color:#24292E'>{&quot;command&quot;:&quot;centr&quot;}</span></strong><span
   style='font-size:14.0pt;font-family:"Calibri Light","sans-serif";mso-bidi-font-family:
-  "Segoe UI";color:#24292E'>&nbsp;– сдвигает механизм
-  позиционирования(центрирует коптер).<br style='box-sizing: border-box'>
-  Команда подается после посадки коптера. Выставляет коптер над верхним люком.<br
+  "Segoe UI";color:#24292E'>&nbsp;вЂ“ СЃРґРІРёРіР°РµС‚ РјРµС…Р°РЅРёР·Рј
+  РїРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёСЏ(С†РµРЅС‚СЂРёСЂСѓРµС‚ РєРѕРїС‚РµСЂ).<br style='box-sizing: border-box'>
+  РљРѕРјР°РЅРґР° РїРѕРґР°РµС‚СЃСЏ РїРѕСЃР»Рµ РїРѕСЃР°РґРєРё РєРѕРїС‚РµСЂР°. Р’С‹СЃС‚Р°РІР»СЏРµС‚ РєРѕРїС‚РµСЂ РЅР°Рґ РІРµСЂС…РЅРёРј Р»СЋРєРѕРј.<br
   style='box-sizing: border-box'>
   <strong style='box-sizing: border-box'><span style='font-family:"Calibri Light","sans-serif";
-  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;uncentr&quot;}</span></strong>&nbsp;–
-  разводит механизм позиционирования. После того как<br style='box-sizing: border-box'>
-  контейнер с грузом и крышкой установлен в коптер, и верхний люк закрыт. Далее
-  можно<br style='box-sizing: border-box'>
-  взлетать.<o:p></o:p></span></p>
+  mso-bidi-font-family:"Segoe UI"'>{&quot;command&quot;:&quot;uncentr&quot;}</span></strong>&nbsp;вЂ“
+  СЂР°Р·РІРѕРґРёС‚ РјРµС…Р°РЅРёР·Рј РїРѕР·РёС†РёРѕРЅРёСЂРѕРІР°РЅРёСЏ. РџРѕСЃР»Рµ С‚РѕРіРѕ РєР°Рє<br style='box-sizing: border-box'>
+  РєРѕРЅС‚РµР№РЅРµСЂ СЃ РіСЂСѓР·РѕРј Рё РєСЂС‹С€РєРѕР№ СѓСЃС‚Р°РЅРѕРІР»РµРЅ РІ РєРѕРїС‚РµСЂ, Рё РІРµСЂС…РЅРёР№ Р»СЋРє Р·Р°РєСЂС‹С‚. Р”Р°Р»РµРµ
+  РјРѕР¶РЅРѕ<br style='box-sizing: border-box'>
+  РІР·Р»РµС‚Р°С‚СЊ.<o:p></o:p></span></p>
   <p class=MsoNormal><o:p>&nbsp;</o:p></p>
   </td>
  </tr>
