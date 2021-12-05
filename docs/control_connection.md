@@ -2,7 +2,7 @@
 
 ## Запись образа
 
-1. Загрузите последние образы [NavTALink](https://drive.google.com/file/d/1gnhqKfKnWkzALMUumSkQaX9yv1H44cT0/view?usp=sharing) для коптера и [NavTALink control](https://drive.google.com/file/d/1OORAkp7-CMaF69wEJXfNFOSFZ_ZRs0Yl/view?usp=sharing) для пульта.
+1. Загрузите последние образы [NavTALink](https://drive.google.com/file/d/1SDhlRFzf4Ps8QENkxs9OP63YUy6vHvws/view?usp=sharing) для коптера и [NavTALink control](https://drive.google.com/file/d/1u93J1ZdJ2uOijFoU9TlGdjUaCJLbhiO5/view?usp=sharing) для пульта.
 
 2. Запишите образ NavTALink на MicroSD карту и установите в Raspberry Pi на дроне.
 
